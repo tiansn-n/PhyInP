@@ -2,6 +2,8 @@
 
 **PhyInP: A Physical Dataset for Intrinsic Properties Compositional Reasoning**
 
+PhyInP dataset aims to evaluate the ability of the model to extract potential information from spatio-temporal data and combine reasoning. PhyInP is designed in a visual question and answer format, including the video of the rendered scene and questions about the future results of the system. 
+
 ## Framework
 
 ## Usage Guide
