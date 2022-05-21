@@ -8,6 +8,7 @@ PhyInP dataset aims to evaluate the ability of the model to extract potential in
 <div align="center">
   <img src="_assets/model.png" width="100%">
 </div>
+
 ## Usage Guide
 
 ###  Document Structure Tree
