@@ -16,4 +16,6 @@ We provide all the required data, including visual masks, parsed programs and dy
 
 Use git to clone this repository
 
-```git clone https://github.com/tiansn-n/PhyInP.git```
+```
+git clone https://github.com/tiansn-n/PhyInP.git
+```
