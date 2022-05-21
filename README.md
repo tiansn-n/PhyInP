@@ -12,4 +12,8 @@ PhyInP dataset aims to evaluate the ability of the model to extract potential in
 
 ### Get the data
 
+We provide all the required data, including visual masks, parsed programs and dynamic predictions.
 
+Use git to clone this repository
+
+```git clone https://github.com/tiansn-n/PhyInP.git```
